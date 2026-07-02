@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: f4791225ec2777c40bd346468a63936c
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264116
+  packageName: 'P3D: Indoor Design Starter Kit (High Quality Furniture)'
+  packageVersion: 1.0
+  assetPath: Assets/Phoenix3D/P3D_Wallpaper_Carpet_and_CurtainFabric_Materials_Pack/Models/Bed_Room_Decoration.fbx
+  uploadId: 698848
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Metal
+    second: {fileID: 2100000, guid: 19d3e3fdcd235dd43b4b532829ad7002, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Plastic
+    second: {fileID: 2100000, guid: 021b3abd3ea9ff9479760c2c2149a87d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black_Wood
+    second: {fileID: 2100000, guid: 8441ab686a0feb443b13e44ab22acba9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Paper
+    second: {fileID: 2100000, guid: 8c953189df45c5b46b690b67e7d55abc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Paper_1
+    second: {fileID: 2100000, guid: 279b5e420d443444b939bcdbdb8ea2db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Paper_2
+    second: {fileID: 2100000, guid: b2619eb088aaf9c4c90c4cf442679df8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_Paper_3
+    second: {fileID: 2100000, guid: 6e844b1c9f07bf74c99948e8e9a71d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_T3
+    second: {fileID: 2100000, guid: c3c6a2c6c86c6a144a218dd4a62c7b15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_T4
+    second: {fileID: 2100000, guid: 14c6b071dceac904d88c1b42f315742b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fabric_T5
+    second: {fileID: 2100000, guid: f00cc66e0b1104f4eb8710327661f4a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamps
+    second: {fileID: 2100000, guid: 6da68de1fc603b14d8f8872708495377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather
+    second: {fileID: 2100000, guid: 0cf8a8d51e068b148860c2a5156f7f2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 021e0cc7e9f51e44e997758e2fc47b67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_Parts
+    second: {fileID: 2100000, guid: e5fced1496ecea548bfad02feca24d86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piano_P1
+    second: {fileID: 2100000, guid: 642382423a27e334ab8160b164ddf7c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piano_P2
+    second: {fileID: 2100000, guid: 9ab6d348d18a59c429716657c2f97533, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piano_P3
+    second: {fileID: 2100000, guid: bc74b62eb53b0bd44abce6ca1e3d610d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Piano_P4
+    second: {fileID: 2100000, guid: b0e8245bce507dd448d19fc4cfe4cd46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: ec5265034083de740944d0c0d6c427ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White_Plastic
+    second: {fileID: 2100000, guid: a0dec338ceae7f347b892e18a48da49b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood
+    second: {fileID: 2100000, guid: ef02fa60f8f48054fb0e5ad2e332decd, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 60
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 16
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
